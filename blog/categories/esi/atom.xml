@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Gospel according to Gibb]]></title>
-  <link href="http://gibbster.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ESI | The Gospel according to Gibb]]></title>
+  <link href="http://gibbster.github.com/blog/categories/esi/atom.xml" rel="self"/>
   <link href="http://gibbster.github.com/"/>
   <updated>2012-08-25T15:07:32-07:00</updated>
   <id>http://gibbster.github.com/</id>
@@ -18,17 +18,17 @@
     <link href="http://gibbster.github.com/blog/2012/08/25/caching-content-with-varnish-and-esi/"/>
     <updated>2012-08-25T14:24:00-07:00</updated>
     <id>http://gibbster.github.com/blog/2012/08/25/caching-content-with-varnish-and-esi</id>
-    <content type="html"><![CDATA[<p>Over the last year, I&#8217;ve been hosting the occasional Tech Talk at my company.
-The idea was that we all deal with &#8216;unknown unknowns&#8217; in our job, and often
+    <content type="html"><![CDATA[<p>Over the last year, I've been hosting the occasional Tech Talk at my company.
+The idea was that we all deal with 'unknown unknowns' in our job, and often
 hear about useful tools and techniques through pure serendipity (read: Hacker
-News). Since we&#8217;re working on similar kinds of projects, sharing these tips
-isn&#8217;t just interesting but can really increase productivity.</p>
+News). Since we're working on similar kinds of projects, sharing these tips
+isn't just interesting but can really increase productivity.</p>
 
 <p>The most recent presentation I created was one on Varnish with Edge Side
 Includes. ESI is a really cool idea for combining mostly static pages with
 segments that need to personalized or that rapidly change.</p>
 
-<p>Part of the reason I through this set together as a set of slide, I&#8217;ll admit,
+<p>Part of the reason I through this set together as a set of slide, I'll admit,
 is just so I could have a chance to play with the new
 <a href="http://code.google.com/p/io-2012-slides/">Google io 2012 slide templates</a>.
 I usually just do a live coding session.</p>
