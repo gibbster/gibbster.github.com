@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The Gospel according to Gibb]]></title>
-  <link href="http://gibbster.github.com/atom.xml" rel="self"/>
-  <link href="http://gibbster.github.com/"/>
-  <updated>2012-08-25T15:07:32-07:00</updated>
-  <id>http://gibbster.github.com/</id>
+  <link href="http://biggusgibbus.com/atom.xml" rel="self"/>
+  <link href="http://biggusgibbus.com/"/>
+  <updated>2012-08-25T17:35:25-07:00</updated>
+  <id>http://biggusgibbus.com/</id>
   <author>
     <name><![CDATA[David Gibb]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Caching content with Varnish and ESI]]></title>
-    <link href="http://gibbster.github.com/blog/2012/08/25/caching-content-with-varnish-and-esi/"/>
+    <link href="http://biggusgibbus.com/blog/2012/08/25/caching-content-with-varnish-and-esi/"/>
     <updated>2012-08-25T14:24:00-07:00</updated>
-    <id>http://gibbster.github.com/blog/2012/08/25/caching-content-with-varnish-and-esi</id>
+    <id>http://biggusgibbus.com/blog/2012/08/25/caching-content-with-varnish-and-esi</id>
     <content type="html"><![CDATA[<p>Over the last year, I&#8217;ve been hosting the occasional Tech Talk at my company.
 The idea was that we all deal with &#8216;unknown unknowns&#8217; in our job, and often
 hear about useful tools and techniques through pure serendipity (read: Hacker

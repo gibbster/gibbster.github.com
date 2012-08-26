@@ -1,17 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://gibbster.github.com/blog/2012/08/25/caching-content-with-varnish-and-esi/
-        </loc>
+        <loc>http://biggusgibbus.com/blog/2012/08/25/caching-content-with-varnish-and-esi/</loc>
         <lastmod>2012-08-25T15:06:35-07:00</lastmod>
     </url>
     <url>
-        <loc>http://gibbster.github.com/blog/archives/</loc>
+        <loc>http://biggusgibbus.com/blog/archives/</loc>
         <lastmod>2012-08-25T15:06:35-07:00</lastmod>
     </url>
     <url>
-        <loc>http://gibbster.github.com/</loc>
+        <loc>http://biggusgibbus.com/</loc>
         <lastmod>2012-08-25T15:06:35-07:00</lastmod>
     </url>
 </urlset>
